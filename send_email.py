@@ -3,9 +3,9 @@ import smtplib, ssl
 def sendEmail(message):
     smtp_server = "smtp.janvoi.com"
     port = 587 
-    sender_email = "mahnoorchaudary53@gmail.com"
+    sender_email = "username@domainname.com" #youremailaddress
     password = "----"  # It's recommended to use environment variables or a secure vault for passwords
-    receiver_email = "mahnoorchaudary53@gmail.com"
+    receiver_email = "username@domainname.com"
 
     context = ssl.create_default_context()
 
