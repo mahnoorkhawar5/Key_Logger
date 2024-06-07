@@ -1,0 +1,5 @@
+This Key Logger is just made for educational and learning purpose
+keylogger1.py and keylogger.py is the basic syntax of how the key logger is working 
+keylogger3 and send_email.py uses gmail to connect/send the pressed key data to the provided gmail
+NOTE:
+extra permissions are needed to be assigend to the gmail used (domain hosted gamil can give permissions)
